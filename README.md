@@ -18,3 +18,4 @@ The repository is continuously updated as I progress through the internship.
 | Day 07 | NumPy Advanced & Linear Algebra | Completed |
 | Day 08 | Linear Algebra I | Completed |
 | Day 09 | Linear Algebra II: Matrices & Transformations | Completed |
+| Day 10 | Linear Algebra III: Eigenvalues and SVD | completed |
