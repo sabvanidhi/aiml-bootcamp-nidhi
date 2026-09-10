@@ -19,3 +19,5 @@ The repository is continuously updated as I progress through the internship.
 | Day 08 | Linear Algebra I | Completed |
 | Day 09 | Linear Algebra II: Matrices & Transformations | Completed |
 | Day 10 | Linear Algebra III: Eigenvalues and SVD | completed |
+| Day 11 | Calculus for ML I: Derivatives and the Chain Rule | completed |
+| Day 12 | Backpropagation & Gradient Descent in Depth | completed |
