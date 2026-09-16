@@ -22,3 +22,4 @@ The repository is continuously updated as I progress through the internship.
 | Day 11 | Calculus for ML I: Derivatives and the Chain Rule | completed |
 | Day 12 | Backpropagation & Gradient Descent in Depth | completed |
 | Day 13 | Probability Foundations | completed |
+| Day 14 | Probability Distributions | completed |
