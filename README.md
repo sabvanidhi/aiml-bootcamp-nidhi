@@ -23,3 +23,4 @@ The repository is continuously updated as I progress through the internship.
 | Day 12 | Backpropagation & Gradient Descent in Depth | completed |
 | Day 13 | Probability Foundations | completed |
 | Day 14 | Probability Distributions | completed |
+| Day 15 | Probability Distributions | completed |
