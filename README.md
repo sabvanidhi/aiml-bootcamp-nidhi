@@ -24,5 +24,5 @@ The repository is continuously updated as I progress through the internship.
 | Day 13 | Probability Foundations | completed |
 | Day 14 | Probability Distributions | completed |
 | Day 15 | Statistics & Hypothesis Testing | completed |
-| Day-16 | Pandas | completed |
+| Day-16 | Pandas Fundamentals — the Titanic | completed |
 
