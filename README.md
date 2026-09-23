@@ -26,4 +26,5 @@ The repository is continuously updated as I progress through the internship.
 | Day 15 | Statistics & Hypothesis Testing | completed |
 | Day-16 | Pandas Fundamentals — the Titanic | completed |
 | Day-17 | Pandas Advanced — groupby, merge, pivot, dates | completed |
+| Day-18 | SQL for Data People | completed |
 
