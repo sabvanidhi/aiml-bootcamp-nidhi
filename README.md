@@ -28,4 +28,4 @@ The repository is continuously updated as I progress through the internship.
 | Day-17 | Pandas Advanced — groupby, merge, pivot, dates | completed |
 | Day-18 | SQL for Data People | completed |
 | Day-19 | EDA Workflow & Visualization — Ames Housing | completed |
-
+| Day-20 | Capstone project | completed |
