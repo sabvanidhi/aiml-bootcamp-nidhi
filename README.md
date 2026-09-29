@@ -18,14 +18,15 @@ The repository is continuously updated as I progress through the internship.
 | Day 07 | NumPy Advanced & Linear Algebra | Completed |
 | Day 08 | Linear Algebra I | Completed |
 | Day 09 | Linear Algebra II: Matrices & Transformations | Completed |
-| Day 10 | Linear Algebra III: Eigenvalues and SVD | completed |
-| Day 11 | Calculus for ML I: Derivatives and the Chain Rule | completed |
-| Day 12 | Backpropagation & Gradient Descent in Depth | completed |
-| Day 13 | Probability Foundations | completed |
-| Day 14 | Probability Distributions | completed |
-| Day 15 | Statistics & Hypothesis Testing | completed |
-| Day-16 | Pandas Fundamentals — the Titanic | completed |
-| Day-17 | Pandas Advanced — groupby, merge, pivot, dates | completed |
-| Day-18 | SQL for Data People | completed |
-| Day-19 | EDA Workflow & Visualization — Ames Housing | completed |
-| Day-20 | Capstone project | completed |
+| Day 10 | Linear Algebra III: Eigenvalues and SVD | Completed |
+| Day 11 | Calculus for ML I: Derivatives and the Chain Rule | Completed |
+| Day 12 | Backpropagation & Gradient Descent in Depth | Completed |
+| Day 13 | Probability Foundations | Completed |
+| Day 14 | Probability Distributions | Completed |
+| Day 15 | Statistics & Hypothesis Testing | Completed |
+| Day-16 | Pandas Fundamentals — the Titanic | Completed |
+| Day-17 | Pandas Advanced — groupby, merge, pivot, dates | Completed |
+| Day-18 | SQL for Data People | Completed |
+| Day-19 | EDA Workflow & Visualization — Ames Housing | Completed |
+| Day-20 | Capstone project | Completed |
+| Day-21 | Linear Regression from Scratch — California Housing | Completed | 
