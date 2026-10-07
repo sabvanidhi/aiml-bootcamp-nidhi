@@ -31,3 +31,4 @@ The repository is continuously updated as I progress through the internship.
 | Day-20 | Capstone project | Completed |
 | Day-21 | Linear Regression from Scratch — California Housing | Completed | 
 | Day-22 | Logistic Regression from Scratch & Classification Metrics | Completed |
+| Day-23 | Regularization Deep Dive | Completed |
