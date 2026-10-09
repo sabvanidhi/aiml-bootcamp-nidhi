@@ -1,0 +1,6 @@
+Model,CV R2,Test R2
+Baseline,-0.002,
+Linear Regression,0.84,
+Ridge,0.84,
+Lasso,-0.002,
+Final Pipeline,0.84,0.838
