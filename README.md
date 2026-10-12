@@ -34,3 +34,4 @@ The repository is continuously updated as I progress through the internship.
 | Day-23 | Regularization Deep Dive | Completed | 
 | Day-24 | Feature Engineering and sklearn Pipelines | Completed |
 | Day-25 | Linear Model Pipeline | Completed |
+| Day-26 | Decision Trees | Completed |
