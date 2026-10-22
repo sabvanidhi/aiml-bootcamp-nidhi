@@ -35,3 +35,6 @@ The repository is continuously updated as I progress through the internship.
 | Day-24 | Feature Engineering and sklearn Pipelines | Completed |
 | Day-25 | Linear Model Pipeline | Completed |
 | Day-26 | Decision Trees | Completed |
+| Day-27 | Random Forests, Bagging, and Responsible Interpretation | Completed |
+| Day-28 | Gradient Boosting, XGBoost, and Controlled Model Tuning | Completed |
+| Day-29 | Model Interpretation with SHAP and Partial Dependence | Completed |
