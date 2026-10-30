@@ -38,3 +38,8 @@ The repository is continuously updated as I progress through the internship.
 | Day-27 | Random Forests, Bagging, and Responsible Interpretation | Completed |
 | Day-28 | Gradient Boosting, XGBoost, and Controlled Model Tuning | Completed |
 | Day-29 | Model Interpretation with SHAP and Partial Dependence | Completed |
+| Day-30 | Tree-Based Fraud Detection Pipeline | Completed |
+| Day-31 | K-Means Clustering and Customer Segmentation | Completed |
+| Day-32 | Advanced Clustering: The Bake-Off | Completed |
+| Day-33 | Dimensionality Reduction: PCA, t-SNE and UMAP | Completed |
+| Day-34 | Anomaly Detection | Completed |
