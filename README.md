@@ -43,3 +43,7 @@ The repository is continuously updated as I progress through the internship.
 | Day-32 | Advanced Clustering: The Bake-Off | Completed |
 | Day-33 | Dimensionality Reduction: PCA, t-SNE and UMAP | Completed |
 | Day-34 | Anomaly Detection | Completed |
+| Day-35 | Unsupervised Analysis with Rigorous Evaluation | Completed |
+| Day-36 | Time Series Fundamentals | Completed |
+| Day-37 | Classical Forecasting: ARIMA and Prophet | Completed |
+| Day-38 | ML-Based Forecasting | Completed |
